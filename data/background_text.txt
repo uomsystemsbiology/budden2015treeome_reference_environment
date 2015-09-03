@@ -1,6 +1,7 @@
 The default user is 'sbl' password 'sbl'
-
-Double-click the icon 'run_experiments.sh' and select 
-'Execute in Terminal' to reproduce the results of the paper.
+Double-click the icon 'run_experiments.sh' and select 'Execute in Terminal' 
+to reproduce the results of the paper.
+  Budden, D. M., et al. Modelling the conditional regulatory activity of 
+  methylated and bivalent promoters. Epigenetics Chromatin 8, 21 (2015).
 
 Results and code will be in /home/sbl/budden2015treeome/results
