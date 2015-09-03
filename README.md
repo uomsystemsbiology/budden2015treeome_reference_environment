@@ -1,6 +1,6 @@
 ### Overview
 
-This is the reference environment for the manuscript ['Modelling the conditional regulatory activity of methylated and bivalent promoters'](http://dx.doi.org/10.1186/s13072-015-0013-9) (1Budden, D. M., Hurley, D. G. & Crampin, E. J. Epigenetics Chromatin 8, 21 (2015)).  It executes code to reproduce specific results described in the manuscript.   You can find more information about this research at the [project page here](http://uomsystemsbiology.github.io/budden2015treeome/).  
+This is the reference environment for the manuscript ['Modelling the conditional regulatory activity of methylated and bivalent promoters'](http://dx.doi.org/10.1186/s13072-015-0013-9) (Budden, D. M., Hurley, D. G. & Crampin, E. J. Epigenetics Chromatin 8, 21 (2015)).  It executes code to reproduce specific results described in the manuscript.   You can find more information about this research at the [project page here](http://uomsystemsbiology.github.io/budden2015treeome/).  
 
 To find other versions of this reference environment, see Other Links below.  To learn more about reference environments, [see the detailed description here](http://uomsystemsbiology.github.io/reference-environments/).  
 
